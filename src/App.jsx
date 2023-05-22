@@ -24,7 +24,7 @@ function App() {
             borderRadius="lg"
           />
           <Stack mt="6" spacing="3">
-            <Heading size="md">Living cscs Sofa</Heading>
+            <Heading size="md">Living lapanim Sofa</Heading>
             <Text>
               This sofa is perfect for modern tropical spaces, baroque inspired
               spaces, earthy toned spaces and for people who love a chic design
